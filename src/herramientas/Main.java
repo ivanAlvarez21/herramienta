@@ -14,6 +14,7 @@ public class Main {
 		System.out.print("hola vendedores como estamos!\n");
 		System.out.print("esta aplicacion muestra los datos de venta\n");
 		
+		System.out.print("numero 1\n");
 	}
 
 }
